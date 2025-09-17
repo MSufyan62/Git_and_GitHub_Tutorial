@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "I Like Kabab and Phal!" << endl;
+    cout << "I Like Kebab and Phal and Sheek!" << endl;
     return 0;
 }
