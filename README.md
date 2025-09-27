@@ -5,3 +5,4 @@
 <br>
 **Job Role** -  *Software Developer*
 **Company** - BMW TechWorks India
+**Date of Birth** - 06/02/2000
