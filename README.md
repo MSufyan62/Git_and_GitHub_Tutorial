@@ -9,4 +9,4 @@
 <br>
 **Date of Birth** - 06/02/2000
 <br>
-**Work Location** - Bengaluru, Karnataka
+**Work Location** - Bengaluru, Karnataka, India
