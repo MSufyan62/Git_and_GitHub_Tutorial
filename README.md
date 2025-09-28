@@ -5,7 +5,7 @@
 <br>
 **Job Role** -  *Software Developer*
 <br>
-**Company** - BMW TechWorks India, Bengaluru
+**Company** - BMW TechWorks India, Bengaluru, WhiteField
 <br>
 **Date of Birth** - 06/02/2000
 <br>
