@@ -1,15 +1,19 @@
 #.gitignore 
 #Add all those files which you dont want to commit - E.g - binary files created after compilation of sourceCode (.cpp)
 
-# IDE settings -> ignores complete folder
+# IDE settings
 .vscode/
 
-# Ignore all files within this folder -> FolderName/*
-# Ignore all files within this folder except .cpp file -> FolderName/*.cpp
+# Build output directory (recommended approach)
+build/
 
-
-# Ignore all files recursively EXCEPT .cpp files
-FirstSampleFolder/**
-!FirstSampleFolder/**/*.cpp
-SecondSampleFolder/**
-!SecondSampleFolder/**/*.cpp
+# Common binary and compiled file extensions (backup protection)
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
